@@ -1,0 +1,12 @@
+%module stragg
+%include ChebyshevPolynomial.i
+%include HermitePolynomial.i
+%include GaussFunction.i
+%include DiracFunction.i
+%include LandauFunction.i
+%include VavilovAiryFunction.i
+%include VavilovEdgeworthFunction.i
+%include VavilovMoyalFunction.i
+%include Layer.i
+%include SRIM.i
+%include SRIMTable.i
